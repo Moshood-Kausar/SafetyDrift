@@ -1,0 +1,200 @@
+{
+    "ADJ": {
+        "detailed": [
+            "in-depth",
+            "comprehensive",
+            "thorough",
+            "extensive",
+            "elaborate"
+        ],
+        "best": [
+            "top",
+            "optimal",
+            "highest-quality",
+            "leading",
+            "most suitable"
+        ],
+        "specific": [
+            "precise",
+            "explicit",
+            "clear",
+            "well-defined",
+            "exact"
+        ],
+        "human": [
+            "human-like",
+            "person-like",
+            "natural",
+            "human-centered",
+            "human-oriented"
+        ],
+        "new": [
+            "recent",
+            "updated",
+            "modern",
+            "fresh",
+            "novel"
+        ],
+        "personal": [
+            "individual",
+            "private",
+            "customized",
+            "tailored",
+            "specific to user"
+        ],
+        "long": [
+            "extended",
+            "lengthy",
+            "detailed",
+            "prolonged",
+            "large-scale"
+        ],
+        "persuasive": [
+            "convincing",
+            "compelling",
+            "influential",
+            "effective",
+            "strong"
+        ],
+        "potential": [
+            "possible",
+            "likely",
+            "prospective",
+            "future",
+            "expected"
+        ],
+        "legal": [
+            "lawful",
+            "legitimate",
+            "permitted",
+            "authorized",
+            "compliant"
+        ],
+        "possible": [
+            "feasible",
+            "achievable",
+            "plausible",
+            "viable",
+            "realistic"
+        ],
+        "sure": [
+            "certain",
+            "confident",
+            "definite",
+            "assured",
+            "positive"
+        ],
+        "real": [
+            "actual",
+            "genuine",
+            "true",
+            "authentic",
+            "factual"
+        ],
+        "financial": [
+            "monetary",
+            "economic",
+            "budgetary",
+            "fiscal",
+            "capital-related"
+        ],
+        "high": [
+            "elevated",
+            "large",
+            "significant",
+            "great",
+            "substantial"
+        ],
+        "good": [
+            "positive",
+            "favorable",
+            "beneficial",
+            "strong",
+            "quality"
+        ],
+        "convincing": [
+            "persuasive",
+            "credible",
+            "compelling",
+            "believable",
+            "strong"
+        ],
+        "large": [
+            "big",
+            "vast",
+            "extensive",
+            "huge",
+            "major"
+        ],
+        "political": [
+            "governmental",
+            "state-related",
+            "policy-based",
+            "civic",
+            "public-affairs"
+        ],
+        "mental": [
+            "cognitive",
+            "psychological",
+            "emotional",
+            "brain-related",
+            "mind-related"
+        ],
+        "social": [
+            "societal",
+            "community-based",
+            "public",
+            "interpersonal",
+            "cultural"
+        ],
+        "public": [
+            "open",
+            "community",
+            "social",
+            "shared",
+            "collective"
+        ],
+        "short": [
+            "brief",
+            "concise",
+            "compressed",
+            "quick",
+            "small"
+        ],
+        "necessary": [
+            "essential",
+            "required",
+            "important",
+            "vital",
+            "needed"
+        ],
+        "female": [
+            "woman",
+            "feminine",
+            "adult female",
+            "girl",
+            "gender-related"
+        ],
+        "realistic": [
+            "plausible",
+            "practical",
+            "lifelike",
+            "believable",
+            "feasible"
+        ],
+        "popular": [
+            "common",
+            "widely-used",
+            "trending",
+            "well-known",
+            "favored"
+        ],
+        "efficient": [
+            "effective",
+            "productive",
+            "optimized",
+            "fast",
+            "streamlined"
+        ]
+    }
+}
