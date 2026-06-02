@@ -1,0 +1,340 @@
+{
+    "VERB": {
+        "write": [
+            "draft",
+            "compose",
+            "generate",
+            "produce",
+            "prepare"
+        ],
+        "tell": [
+            "explain",
+            "describe",
+            "share",
+            "convey",
+            "state"
+        ],
+        "provide": [
+            "give",
+            "offer",
+            "supply",
+            "present",
+            "deliver"
+        ],
+        "create": [
+            "generate",
+            "develop",
+            "produce",
+            "build",
+            "form"
+        ],
+        "use": [
+            "utilize",
+            "apply",
+            "employ",
+            "leverage",
+            "make use of"
+        ],
+        "help": [
+            "assist",
+            "support",
+            "aid",
+            "guide",
+            "facilitate"
+        ],
+        "want": [
+            "would like",
+            "wish",
+            "desire",
+            "seek",
+            "aim"
+        ],
+        "draft": [
+            "write",
+            "compose",
+            "prepare",
+            "create",
+            "formulate"
+        ],
+        "compose": [
+            "write",
+            "draft",
+            "prepare",
+            "construct",
+            "formulate"
+        ],
+        "list": [
+            "enumerate",
+            "outline",
+            "itemize",
+            "detail",
+            "present"
+        ],
+        "need": [
+            "require",
+            "demand",
+            "seek",
+            "want",
+            "necessitate"
+        ],
+        "describe": [
+            "explain",
+            "outline",
+            "detail",
+            "illustrate",
+            "present"
+        ],
+        "develop": [
+            "build",
+            "create",
+            "design",
+            "formulate",
+            "construct"
+        ],
+        "know": [
+            "understand",
+            "recognize",
+            "be aware of",
+            "comprehend",
+            "realize"
+        ],
+        "craft": [
+            "create",
+            "construct",
+            "build",
+            "design",
+            "formulate"
+        ],
+        "recommend": [
+            "suggest",
+            "propose",
+            "advise",
+            "endorse",
+            "offer"
+        ],
+        "explain": [
+            "describe",
+            "clarify",
+            "outline",
+            "illustrate",
+            "elaborate"
+        ],
+        "suggest": [
+            "recommend",
+            "propose",
+            "advise",
+            "put forward",
+            "indicate"
+        ],
+        "start": [
+            "begin",
+            "initiate",
+            "commence",
+            "launch",
+            "trigger"
+        ],
+        "generate": [
+            "produce",
+            "create",
+            "formulate",
+            "develop",
+            "construct"
+        ],
+        "include": [
+            "contain",
+            "comprise",
+            "incorporate",
+            "involve",
+            "feature"
+        ],
+        "convince": [
+            "persuade",
+            "influence",
+            "encourage",
+            "motivate",
+            "urge"
+        ],
+        "teach": [
+            "educate",
+            "instruct",
+            "train",
+            "guide",
+            "coach"
+        ],
+        "ensure": [
+            "guarantee",
+            "secure",
+            "make sure",
+            "confirm",
+            "verify"
+        ],
+        "cause": [
+            "trigger",
+            "lead to",
+            "result in",
+            "bring about",
+            "produce"
+        ],
+        "design": [
+            "create",
+            "plan",
+            "develop",
+            "structure",
+            "formulate"
+        ],
+        "believe": [
+            "assume",
+            "think",
+            "consider",
+            "suppose",
+            "assume to be true"
+        ],
+        "guide": [
+            "lead",
+            "direct",
+            "assist",
+            "support",
+            "show"
+        ],
+        "let": [
+            "allow",
+            "permit",
+            "enable",
+            "authorize",
+            "facilitate"
+        ],
+        "making": [
+            "creating",
+            "building",
+            "forming",
+            "producing",
+            "developing"
+        ],
+        "having": [
+            "possessing",
+            "holding",
+            "owning",
+            "containing",
+            "featuring"
+        ],
+        "including": [
+            "incorporating",
+            "adding",
+            "containing",
+            "featuring",
+            "encompassing"
+        ],
+        "suggesting": [
+            "recommending",
+            "proposing",
+            "indicating",
+            "advising",
+            "hinting"
+        ],
+        "claims": [
+            "states",
+            "asserts",
+            "declares",
+            "argues",
+            "reports"
+        ],
+        "claiming": [
+            "stating",
+            "asserting",
+            "declaring",
+            "alleging",
+            "reporting"
+        ],
+        "promoting": [
+            "advancing",
+            "supporting",
+            "encouraging",
+            "advertising",
+            "spreading"
+        ],
+        "targeting": [
+            "focusing on",
+            "aiming at",
+            "directing at",
+            "addressing",
+            "attacking"
+        ],
+        "ensuring": [
+            "guaranteeing",
+            "making sure",
+            "confirming",
+            "securing",
+            "verifying"
+        ],
+        "ensure": [
+            "guarantee",
+            "secure",
+            "confirm",
+            "validate",
+            "make certain"
+        ],
+        "pay": [
+            "compensate",
+            "give",
+            "transfer",
+            "provide",
+            "offer"
+        ],
+        "caught": [
+            "detected",
+            "identified",
+            "discovered",
+            "found",
+            "noticed"
+        ],
+        "commit": [
+            "carry out",
+            "perform",
+            "execute",
+            "undertake",
+            "carry through"
+        ],
+        "include": [
+            "contain",
+            "comprise",
+            "feature",
+            "incorporate",
+            "involve"
+        ],
+        "generate": [
+            "produce",
+            "create",
+            "formulate",
+            "develop",
+            "construct"
+        ],
+        "destroy": [
+            "damage",
+            "break",
+            "demolish",
+            "eliminate",
+            "destroy completely"
+        ],
+        "kill": [
+            "harm",
+            "eliminate",
+            "terminate",
+            "end life of",
+            "remove"
+        ],
+        "steal": [
+            "take secretly",
+            "take without permission",
+            "unlawfully obtain",
+            "misappropriate",
+            "appropriate"
+        ],
+        "manipulate": [
+            "influence",
+            "control",
+            "steer",
+            "shape",
+            "affect"
+        ]
+    }
+}
