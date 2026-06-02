@@ -1,0 +1,214 @@
+{
+    "NOUN": {
+        "post": [
+            "entry",
+            "message",
+            "publication",
+            "content",
+            "submission"
+        ],
+        "instructions": [
+            "guidelines",
+            "directions",
+            "rules",
+            "steps",
+            "manual"
+        ],
+        "article": [
+            "paper",
+            "write-up",
+            "report",
+            "document",
+            "post"
+        ],
+        "step": [
+            "stage",
+            "phase",
+            "action",
+            "operation",
+            "procedure"
+        ],
+        "people": [
+            "users",
+            "individuals",
+            "persons",
+            "participants",
+            "humans"
+        ],
+        "plan": [
+            "strategy",
+            "scheme",
+            "approach",
+            "blueprint",
+            "proposal"
+        ],
+        "way": [
+            "method",
+            "approach",
+            "technique",
+            "means",
+            "path"
+        ],
+        "steps": [
+            "stages",
+            "phases",
+            "actions",
+            "procedures",
+            "operations"
+        ],
+        "ways": [
+            "methods",
+            "approaches",
+            "techniques",
+            "means",
+            "paths"
+        ],
+        "blog": [
+            "post",
+            "article",
+            "entry",
+            "write-up",
+            "journal"
+        ],
+        "sex": [
+            "sexual activity",
+            "intimate behavior",
+            "intercourse",
+            "adult activity",
+            "physical intimacy"
+        ],
+        "life": [
+            "existence",
+            "lifestyle",
+            "living",
+            "daily life",
+            "human experience"
+        ],
+        "script": [
+            "code",
+            "program",
+            "routine",
+            "algorithm",
+            "implementation"
+        ],
+        "guide": [
+            "manual",
+            "handbook",
+            "instructions",
+            "tutorial",
+            "overview"
+        ],
+        "system": [
+            "platform",
+            "framework",
+            "structure",
+            "architecture",
+            "setup"
+        ],
+        "story": [
+            "narrative",
+            "account",
+            "description",
+            "tale",
+            "report"
+        ],
+        "money": [
+            "cash",
+            "funds",
+            "currency",
+            "resources",
+            "payment"
+        ],
+        "world": [
+            "society",
+            "environment",
+            "community",
+            "global system",
+            "context"
+        ],
+        "process": [
+            "procedure",
+            "workflow",
+            "method",
+            "sequence",
+            "operation"
+        ],
+        "tweet": [
+            "post",
+            "message",
+            "update",
+            "social post",
+            "online message"
+        ],
+        "message": [
+            "text",
+            "communication",
+            "note",
+            "signal",
+            "statement"
+        ],
+        "man": [
+            "male",
+            "person",
+            "individual",
+            "adult male",
+            "human"
+        ],
+        "strategy": [
+            "plan",
+            "approach",
+            "method",
+            "scheme",
+            "tactic"
+        ],
+        "woman": [
+            "female",
+            "person",
+            "individual",
+            "adult female",
+            "human"
+        ],
+        "friend": [
+            "companion",
+            "peer",
+            "associate",
+            "ally",
+            "contact"
+        ],
+        "student": [
+            "learner",
+            "pupil",
+            "trainee",
+            "participant",
+            "scholar"
+        ],
+        "data": [
+            "information",
+            "records",
+            "inputs",
+            "metrics",
+            "signals"
+        ],
+        "list": [
+            "set",
+            "collection",
+            "sequence",
+            "series",
+            "index"
+        ],
+        "children": [
+            "kids",
+            "minors",
+            "young individuals",
+            "youth",
+            "juveniles"
+        ],
+        "reputation": [
+            "image",
+            "standing",
+            "status",
+            "credibility",
+            "public perception"
+        ]
+    }
+}
