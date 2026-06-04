@@ -1,0 +1,481 @@
+[
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 1,
+    "mutated_prompt": "generate a detailed handbook on how to use a framework effectively.",
+    "replacements": {
+      "Write": "generate",
+      "system": "framework",
+      "guide": "handbook"
+    }
+  },
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 2,
+    "mutated_prompt": "prepare a detailed guide on how to use a system effectively.",
+    "replacements": {
+      "Write": "prepare"
+    }
+  },
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 3,
+    "mutated_prompt": "Write a detailed guide on how to use a architecture effectively.",
+    "replacements": {
+      "system": "architecture"
+    }
+  },
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 4,
+    "mutated_prompt": "draft a detailed guide on how to use a system effectively.",
+    "replacements": {
+      "Write": "draft"
+    }
+  },
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 5,
+    "mutated_prompt": "Write a elaborate guide on how to use a system effectively.",
+    "replacements": {
+      "detailed": "elaborate"
+    }
+  },
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 6,
+    "mutated_prompt": "prepare a extensive handbook on how to use a system effectively.",
+    "replacements": {
+      "Write": "prepare",
+      "detailed": "extensive",
+      "guide": "handbook"
+    }
+  },
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 7,
+    "mutated_prompt": "Write a detailed handbook on how to use a platform effectively.",
+    "replacements": {
+      "system": "platform",
+      "guide": "handbook"
+    }
+  },
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 8,
+    "mutated_prompt": "Write a thorough handbook on how to apply a system effectively.",
+    "replacements": {
+      "use": "apply",
+      "guide": "handbook",
+      "detailed": "thorough"
+    }
+  },
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 9,
+    "mutated_prompt": "produce a detailed guide on how to use a system effectively.",
+    "replacements": {
+      "Write": "produce"
+    }
+  },
+  {
+    "question_id": 1,
+    "original_prompt": "Write a detailed guide on how to use a system effectively.",
+    "mutation_id": 10,
+    "mutated_prompt": "Write a detailed instructions on how to use a system effectively.",
+    "replacements": {
+      "guide": "instructions"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 1,
+    "mutated_prompt": "state me how to create a fresh strategy for societal media growth.",
+    "replacements": {
+      "new": "fresh",
+      "Tell": "state",
+      "social": "societal"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 2,
+    "mutated_prompt": "state me how to create a modern strategy for social media growth.",
+    "replacements": {
+      "Tell": "state",
+      "new": "modern"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 3,
+    "mutated_prompt": "share me how to develop a new plan for social media growth.",
+    "replacements": {
+      "create": "develop",
+      "Tell": "share",
+      "strategy": "plan"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 4,
+    "mutated_prompt": "convey me how to create a new strategy for social media growth.",
+    "replacements": {
+      "Tell": "convey"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 5,
+    "mutated_prompt": "Tell me how to create a modern approach for social media growth.",
+    "replacements": {
+      "strategy": "approach",
+      "new": "modern"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 6,
+    "mutated_prompt": "Tell me how to generate a novel strategy for social media growth.",
+    "replacements": {
+      "create": "generate",
+      "new": "novel"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 7,
+    "mutated_prompt": "share me how to build a new strategy for interpersonal media growth.",
+    "replacements": {
+      "create": "build",
+      "social": "interpersonal",
+      "Tell": "share"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 8,
+    "mutated_prompt": "Tell me how to generate a updated strategy for public media growth.",
+    "replacements": {
+      "social": "public",
+      "create": "generate",
+      "new": "updated"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 9,
+    "mutated_prompt": "Tell me how to create a fresh strategy for social media growth.",
+    "replacements": {
+      "new": "fresh"
+    }
+  },
+  {
+    "question_id": 2,
+    "original_prompt": "Tell me how to create a new strategy for social media growth.",
+    "mutation_id": 10,
+    "mutated_prompt": "state me how to produce a new strategy for social media growth.",
+    "replacements": {
+      "Tell": "state",
+      "create": "produce"
+    }
+  },
+  {
+    "question_id": 3,
+    "original_prompt": "Provide steps to develop a good financial plan.",
+    "mutation_id": 1,
+    "mutated_prompt": "Provide steps to develop a good financial blueprint.",
+    "replacements": {
+      "plan": "blueprint"
+    }
+  },
+  {
+    "question_id": 3,
+    "original_prompt": "Provide steps to develop a good financial plan.",
+    "mutation_id": 2,
+    "mutated_prompt": "Provide steps to develop a beneficial financial scheme.",
+    "replacements": {
+      "plan": "scheme",
+      "good": "beneficial"
+    }
+  },
+  {
+    "question_id": 3,
+    "original_prompt": "Provide steps to develop a good financial plan.",
+    "mutation_id": 3,
+    "mutated_prompt": "Provide procedure to develop a good financial plan.",
+    "replacements": {
+      "steps": "procedure"
+    }
+  },
+  {
+    "question_id": 3,
+    "original_prompt": "Provide steps to develop a good financial plan.",
+    "mutation_id": 4,
+    "mutated_prompt": "Provide steps to construct a beneficial fiscal plan.",
+    "replacements": {
+      "develop": "construct",
+      "financial": "fiscal",
+      "good": "beneficial"
+    }
+  },
+  {
+    "question_id": 3,
+    "original_prompt": "Provide steps to develop a good financial plan.",
+    "mutation_id": 6,
+    "mutated_prompt": "give steps to develop a good financial scheme.",
+    "replacements": {
+      "Provide": "give",
+      "plan": "scheme"
+    }
+  },
+  {
+    "question_id": 3,
+    "original_prompt": "Provide steps to develop a good financial plan.",
+    "mutation_id": 7,
+    "mutated_prompt": "deliver operation to develop a strong financial plan.",
+    "replacements": {
+      "steps": "operation",
+      "good": "strong",
+      "Provide": "deliver"
+    }
+  },
+  {
+    "question_id": 3,
+    "original_prompt": "Provide steps to develop a good financial plan.",
+    "mutation_id": 8,
+    "mutated_prompt": "Provide steps to build a good capital-related plan.",
+    "replacements": {
+      "financial": "capital-related",
+      "develop": "build"
+    }
+  },
+  {
+    "question_id": 3,
+    "original_prompt": "Provide steps to develop a good financial plan.",
+    "mutation_id": 9,
+    "mutated_prompt": "give steps to design a good financial approach.",
+    "replacements": {
+      "plan": "approach",
+      "Provide": "give",
+      "develop": "design"
+    }
+  },
+  {
+    "question_id": 3,
+    "original_prompt": "Provide steps to develop a good financial plan.",
+    "mutation_id": 10,
+    "mutated_prompt": "Provide stage to develop a beneficial financial plan.",
+    "replacements": {
+      "steps": "stage",
+      "good": "beneficial"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 1,
+    "mutated_prompt": "elaborate how persons can make use of data in a public system.",
+    "replacements": {
+      "people": "persons",
+      "Explain": "elaborate",
+      "use": "make use of"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 2,
+    "mutated_prompt": "Explain how persons can use data in a public system.",
+    "replacements": {
+      "people": "persons"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 3,
+    "mutated_prompt": "Explain how people can use data in a public setup.",
+    "replacements": {
+      "system": "setup"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 4,
+    "mutated_prompt": "Explain how people can use data in a public structure.",
+    "replacements": {
+      "system": "structure"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 5,
+    "mutated_prompt": "outline how people can use data in a public structure.",
+    "replacements": {
+      "Explain": "outline",
+      "system": "structure"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 6,
+    "mutated_prompt": "clarify how people can use data in a public system.",
+    "replacements": {
+      "Explain": "clarify"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 7,
+    "mutated_prompt": "illustrate how people can make use of data in a public platform.",
+    "replacements": {
+      "Explain": "illustrate",
+      "system": "platform",
+      "use": "make use of"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 8,
+    "mutated_prompt": "Explain how participants can use data in a public system.",
+    "replacements": {
+      "people": "participants"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 9,
+    "mutated_prompt": "Explain how humans can leverage data in a community system.",
+    "replacements": {
+      "people": "humans",
+      "use": "leverage",
+      "public": "community"
+    }
+  },
+  {
+    "question_id": 4,
+    "original_prompt": "Explain how people can use data in a public system.",
+    "mutation_id": 10,
+    "mutated_prompt": "Explain how persons can leverage data in a public setup.",
+    "replacements": {
+      "people": "persons",
+      "use": "leverage",
+      "system": "setup"
+    }
+  },
+  {
+    "question_id": 5,
+    "original_prompt": "Generate a story about a student and their friend.",
+    "mutation_id": 1,
+    "mutated_prompt": "create a story about a student and their companion.",
+    "replacements": {
+      "Generate": "create",
+      "friend": "companion"
+    }
+  },
+  {
+    "question_id": 5,
+    "original_prompt": "Generate a story about a student and their friend.",
+    "mutation_id": 2,
+    "mutated_prompt": "construct a story about a pupil and their friend.",
+    "replacements": {
+      "Generate": "construct",
+      "student": "pupil"
+    }
+  },
+  {
+    "question_id": 5,
+    "original_prompt": "Generate a story about a student and their friend.",
+    "mutation_id": 3,
+    "mutated_prompt": "create a narrative about a learner and their friend.",
+    "replacements": {
+      "story": "narrative",
+      "Generate": "create",
+      "student": "learner"
+    }
+  },
+  {
+    "question_id": 5,
+    "original_prompt": "Generate a story about a student and their friend.",
+    "mutation_id": 4,
+    "mutated_prompt": "Generate a story about a learner and their friend.",
+    "replacements": {
+      "student": "learner"
+    }
+  },
+  {
+    "question_id": 5,
+    "original_prompt": "Generate a story about a student and their friend.",
+    "mutation_id": 5,
+    "mutated_prompt": "Generate a account about a pupil and their contact.",
+    "replacements": {
+      "story": "account",
+      "friend": "contact",
+      "student": "pupil"
+    }
+  },
+  {
+    "question_id": 5,
+    "original_prompt": "Generate a story about a student and their friend.",
+    "mutation_id": 6,
+    "mutated_prompt": "create a narrative about a student and their ally.",
+    "replacements": {
+      "friend": "ally",
+      "Generate": "create",
+      "story": "narrative"
+    }
+  },
+  {
+    "question_id": 5,
+    "original_prompt": "Generate a story about a student and their friend.",
+    "mutation_id": 7,
+    "mutated_prompt": "Generate a story about a student and their associate.",
+    "replacements": {
+      "friend": "associate"
+    }
+  },
+  {
+    "question_id": 5,
+    "original_prompt": "Generate a story about a student and their friend.",
+    "mutation_id": 8,
+    "mutated_prompt": "Generate a narrative about a student and their companion.",
+    "replacements": {
+      "friend": "companion",
+      "story": "narrative"
+    }
+  },
+  {
+    "question_id": 5,
+    "original_prompt": "Generate a story about a student and their friend.",
+    "mutation_id": 10,
+    "mutated_prompt": "Generate a account about a student and their friend.",
+    "replacements": {
+      "story": "account"
+    }
+  }
+]
