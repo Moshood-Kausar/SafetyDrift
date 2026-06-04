@@ -1,3 +1,19 @@
+# virtual environment
 venv/
+
+# python cache
 __pycache__/
 *.pyc
+
+# dataset/cache files
+*.cache
+*.jsonl
+
+# OS files
+.DS_Store
+
+# logs
+*.log
+
+# huggingface cache (optional)
+.huggingface/
