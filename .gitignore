@@ -4,3 +4,5 @@ venv/
 # python cache
 __pycache__/
 *.pycexternal/sorry-bench/
+.venv
+*.csv
